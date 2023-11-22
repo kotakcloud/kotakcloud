@@ -1,6 +1,6 @@
 - 👋 Hi, @kotakcloud here..
 - 👀 I’m interested in React / NodeJS / NoSQL / Angular / Svelte / VueJS / NextJS / NuxtJS / NestJS
-- 💞️ I’m looking to collaborate on project based on above technologies
+- 💞️ Can collaborate on project based on above technologies
 - 🌱 I’m currently learning ML, Crypto, DS, many more..
 - 📫 You can contact me at kotakcloud@gmail.com
 
