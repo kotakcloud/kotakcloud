@@ -10,4 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href="https://twitter.com/kotakcloud?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @kotakcloud</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://calendly.com/kotakcloud/30min">
+✨ Schedule a call</a>
+|
+<a href="https://twitter.com/kotakcloud?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">✨ Follow @kotakcloud</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
